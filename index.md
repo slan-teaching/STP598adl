@@ -1,98 +1,96 @@
-## Welcome to STP 598 Machine Learning & Deep Learning 
+## Welcome to STP 598 Advanced Deep Learning Models
 
-This course focuses on foundations of statistical learning and modern techniques in deep learning. The topics will cover (penalized) linear regression, generalized linear regression, classification and clustering, Gaussian process, Deep neural networks, convolutional neural networks, recurrent neural networks, and auto-encoders, etc.
+This course focuses on more advanced AI/ML topics than standard deep neural networks such as CNN and RNN. The topics will include recently developed techniques including residual networks, U-Net, general adversarial networks, diffusion models, transformers, graph neural networks, and large language models. Students should be familiar with Python programing language and know PyTorch very well.
 
 ### Announcements:
 
 * Welcome! If you want to go to office hours online, use the [zoom](https://asu.zoom.us/j/8055899886).
 
-* Please go to [canvas](https://canvas.asu.edu/courses/198755) to submit written assignments and [NBGrader](https://mathds.asu.edu/services/stp598_82712/formgrader) for coding assignments. This [document](https://github.com/slan-teaching/STP598mldl/blob/main/nbgrader_jupyterhub_student_user_guide.pdf) might help for new users of NBGrader.
+* Please go to [canvas](https://canvas.asu.edu/courses/248838) to submit written assignments and [NBGrader](https://mathds.asu.edu) for coding assignments. This [document](https://github.com/slan-teaching/STP598adl/blob/main/nbgrader_jupyterhub_student_user_guide.pdf) might help for new users of NBGrader.
 
-* Coding assignment 4 is avaiable at [NBGrader](https://mathds.asu.edu/services/stp598_82712/formgrader) due **11:59pm Friday 11/08/2024**.
+<!-- * Coding assignment 4 is avaiable at [NBGrader](https://mathds.asu.edu/) due **11:59pm Friday 11/08/2024**. ->
 
- * Written assignement 4 [Written1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/198755) due **11:59pm Friday 11/22/2024**. -
+<!-- * Written assignement 4 [Written1](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written4.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/248838) due **11:59pm Friday 11/22/2024**. ->
 
-<!-- * [Midterm Exam (take-home)](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_midterm.pdf) is available. Please submit it to canvas before **11:59pm Friday 10/25/2024**. ->
-
-<!-- * [Final Project](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_final.pdf) is available. Please pay attention to the deadlines. -->
+<!-- * [Final Project](https://github.com/slan-teaching/STP598adl/blob/main/exams/STP598adl_final.pdf) is available. Please pay attention to the deadlines. -->
 
 
 ### Syllabus
 
-[syllabus](https://github.com/slan-teaching/STP598mldl/blob/main/syllabus_STP598mldl.pdf)
+[syllabus](https://github.com/slan-teaching/STP598adl/blob/main/syllabus_STP598adl.pdf)
 
 ### Lecture Notes
 
-**How to download** Open terminal, go to any folder you want to store on your computer, type: `git clone https://github.com/slan-teaching/STP598mldl.git` (only once); you can download more lectures in future by `git pull` in the terminal under the folder `STP598mldl` (use `cd` to go to this folder). If you are not familiar with GitHub, google 'github clone'.
+**How to download** Open terminal, go to any folder you want to store on your computer, type: `git clone https://github.com/slan-teaching/STP598adl.git` (only once); you can download more lectures in future by `git pull` in the terminal under the folder `STP598adl` (use `cd` to go to this folder). If you are not familiar with GitHub, google 'github clone'.
 
-[lecture 1](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_Intro.pdf)
+[lecture 1](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_Intro.pdf)
 
-[Intro2PythonNotebook](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.pdf)  [Python_codes_in_RMarkdown](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/RMarkdown_Pythoncode.Rmd)
+[Intro2PythonNotebook](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.pdf)  [Python_codes_in_RMarkdown](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/RMarkdown_Pythoncode.Rmd)
 
-[lecture 2](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect2reg.pdf)
+[lecture 2](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect2reg.pdf)
 
-[demos_linreg](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect2_reg)
+[demo_1](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect2_reg)
 
-[lecture 3](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect3gen.pdf)
+[lecture 3](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect3gen.pdf)
 
-[demos_genlin](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lec3_gen)
+[demo_2](https://github.com/slan-teaching/STP598adl/tree/main/demos/lec3_gen)
 
-[lecture 4](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect4clas.pdf)
+[lecture 4](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect4clas.pdf)
 
-[demos_classfy](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect4_clas)
+[demo_3](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect4_clas)
 
-[lecture 5](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect5tree.pdf)
+[lecture 5](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect5tree.pdf)
 
-[demos_tree](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect5_tree)
+[demo_4](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect5_tree)
 
-[lecture 6](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect6gp.pdf)
+[lecture 6](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect6gp.pdf)
 
-[demos_gp](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect6_gp)
+[demo_5](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect6_gp)
 
-[lecture 7](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect7dnn.pdf)
+[lecture 7](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect7dnn.pdf)
 
-[demos_dnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect7_dnn)
+[demo_6](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect7_dnn)
 
-[Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP598mldl/tree/main/demos/Intro2TFPyTorch)
+[Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP598adl/tree/main/demos/Intro2TFPyTorch)
 
-[lecture 8](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect8cnn.pdf)
+[lecture 8](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect8cnn.pdf)
 
-[demos_cnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect8_cnn)
+[demo_7](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect8_cnn)
 
-[lecture 9](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect9rnn.pdf)
+[lecture 9](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect9rnn.pdf)
 
-[demos_rnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect9_rnn)
+[demo_8](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect9_rnn)
 
-[lecture 10](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect10aegan.pdf)
+[lecture 10](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect10aegan.pdf)
 
-[demos_ae](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect10_ae)
+[demo_9](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect10_ae)
 
-[lecture 11](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect11GAN_goodfellow.pdf)
+[lecture 11](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect11GAN_goodfellow.pdf)
 
-[demos_gan](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect11_gan)
+[demo_10](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect11_gan)
 
-[lecture 12](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect12trainNN.pdf)
+[lecture 12](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect12trainNN.pdf)
 
 [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer)
 
 ### Homework Assignments
 
-[Written 1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.ipynb)
+[Written 1](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written1.ipynb)
 
-[Written 2](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.ipynb)
+[Written 2](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written2.pdf).    [Notebook](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written2.ipynb)
 
-[Written 3](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.ipynb)
+[Written 3](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written3.pdf).    [Notebook](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written3.ipynb)
 
-[Written 4](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.ipynb)
+[Written 4](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written4.pdf).    [Notebook](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written4.ipynb)
 
-[Written 5](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.ipynb)
-    [Dataset](https://github.com/slan-teaching/STP598mldl/blob/main/homework/digit-recognizer.zip)
+[Written 5](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written5.pdf).    [Notebook](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written5.ipynb)
+    [Dataset](https://github.com/slan-teaching/STP598adl/blob/main/homework/digit-recognizer.zip)
 ### Exam
 
-[Midterm](https://github.com/slan-teaching/STP598mldl/tree/main/exams/midterm.pdf)
+[Midterm](https://github.com/slan-teaching/STP598adl/tree/main/exams/midterm.pdf)
 
 ### Final Project
 
-[Final](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_final.pdf)
+[Final](https://github.com/slan-teaching/STP598adl/blob/main/exams/STP598adl_final.pdf)
 
-[Template report](https://github.com/slan-teaching/STP598mldl/blob/main/exams/template_final_report.pdf)
+[Template report](https://github.com/slan-teaching/STP598adl/blob/main/exams/template_final_report.pdf)
