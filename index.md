@@ -27,9 +27,9 @@ This course focuses on more advanced AI/ML topics than standard deep neural netw
 
 [Intro2PythonNotebook](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.pdf)  [Python_codes_in_RMarkdown](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/RMarkdown_Pythoncode.Rmd)
 
-[lecture 2](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect2reg.pdf)
+[lecture 2](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect2resnet.pdf)
 
-[demo_1](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect2_reg)
+[demo_1](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect2_resnet)
 
 [lecture 3](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect3gen.pdf)
 
