@@ -6,7 +6,7 @@ This course focuses on more advanced AI/ML topics than standard deep neural netw
 
 * Welcome! If you want to go to office hours online, use the [zoom](https://asu.zoom.us/j/8055899886).
 
-* Please go to [canvas](https://canvas.asu.edu/courses/248838) to submit written assignments and [NBGrader](https://mathds.asu.edu) for coding assignments. This [document](https://github.com/slan-teaching/STP598adl/blob/main/nbgrader_jupyterhub_student_user_guide.pdf) might help for new users of NBGrader.
+* Please go to [canvas](https://canvas.asu.edu/courses/248838) to submit written assignments and [NBGrader](https://agnesi.la.asu.edu) for coding assignments. This [document](https://github.com/slan-teaching/STP598adl/blob/main/nbgrader_jupyterhub_student_user_guide.pdf) might help for new users of NBGrader.
 
 * Written assignement 1 [Written1](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written1.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/248838) due **11:59pm Friday 2/6/2026**.
 
