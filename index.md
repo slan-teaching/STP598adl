@@ -85,9 +85,9 @@ This course focuses on more advanced AI/ML topics than standard deep neural netw
 
 [Written 5](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written5.pdf).    [Notebook](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written5.ipynb)
     [Dataset](https://github.com/slan-teaching/STP598adl/blob/main/homework/digit-recognizer.zip)
-### Exam
+<!--### Exam
 
-[Midterm](https://github.com/slan-teaching/STP598adl/tree/main/exams/midterm.pdf)
+[Midterm](https://github.com/slan-teaching/STP598adl/tree/main/exams/midterm.pdf) -->
 
 ### Final Project
 
