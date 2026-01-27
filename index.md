@@ -8,9 +8,9 @@ This course focuses on more advanced AI/ML topics than standard deep neural netw
 
 * Please go to [canvas](https://canvas.asu.edu/courses/248838) to submit written assignments and [NBGrader](https://mathds.asu.edu) for coding assignments. This [document](https://github.com/slan-teaching/STP598adl/blob/main/nbgrader_jupyterhub_student_user_guide.pdf) might help for new users of NBGrader.
 
-<!-- * Coding assignment 4 is avaiable at [NBGrader](https://mathds.asu.edu/) due **11:59pm Friday 11/08/2024**. ->
+* Written assignement 1 [Written1](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written1.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/248838) due **11:59pm Friday 2/6/2026**.
 
-<!-- * Written assignement 4 [Written1](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written4.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/248838) due **11:59pm Friday 11/22/2024**. ->
+<!-- * Coding assignment 4 is avaiable at [NBGrader](https://mathds.asu.edu/) due **11:59pm Friday 11/08/2024**. ->
 
 <!-- * [Final Project](https://github.com/slan-teaching/STP598adl/blob/main/exams/STP598adl_final.pdf) is available. Please pay attention to the deadlines. -->
 
