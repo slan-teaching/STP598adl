@@ -25,49 +25,47 @@ This course focuses on more advanced AI/ML topics than standard deep neural netw
 
 [lecture 1](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_Intro.pdf)
 
-[Intro2PythonNotebook](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.pdf)  [Python_codes_in_RMarkdown](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/RMarkdown_Pythoncode.Rmd)
+[demo_1](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect1_intro)
 
 [lecture 2](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect2resnet.pdf)
 
-[demo_1](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect2_resnet)
+[demo_2](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect2_resnet)
 
 [lecture 3](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect3unet.pdf)
 
-[demo_2](https://github.com/slan-teaching/STP598adl/tree/main/demos/lec3_unet)
+[demo_3](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect3_unet)
 
 [lecture 4](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect4clas.pdf)
 
-[demo_3](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect4_clas)
+[demo_4](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect4_clas)
 
 [lecture 5](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect5tree.pdf)
 
-[demo_4](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect5_tree)
+[demo_5](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect5_tree)
 
 [lecture 6](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect6gp.pdf)
 
-[demo_5](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect6_gp)
+[demo_6](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect6_gp)
 
 [lecture 7](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect7dnn.pdf)
 
-[demo_6](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect7_dnn)
-
-[Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP598adl/tree/main/demos/Intro2TFPyTorch)
+[demo_7](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect7_dnn)
 
 [lecture 8](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect8cnn.pdf)
 
-[demo_7](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect8_cnn)
+[demo_8](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect8_cnn)
 
 [lecture 9](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect9rnn.pdf)
 
-[demo_8](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect9_rnn)
+[demo_9](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect9_rnn)
 
 [lecture 10](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect10aegan.pdf)
 
-[demo_9](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect10_ae)
+[demo_10](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect10_ae)
 
 [lecture 11](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect11GAN_goodfellow.pdf)
 
-[demo_10](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect11_gan)
+[demo_11](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect11_gan)
 
 [lecture 12](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect12trainNN.pdf)
 
