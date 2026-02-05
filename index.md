@@ -35,9 +35,9 @@ This course focuses on more advanced AI/ML topics than standard deep neural netw
 
 [demo_3](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect3_unet)
 
-[lecture 4](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect4clas.pdf)
+[lecture 4](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect4gan.pdf)
 
-[demo_4](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect4_clas)
+[demo_4](https://github.com/slan-teaching/STP598adl/tree/main/demos/lect4_gan)
 
 [lecture 5](https://github.com/slan-teaching/STP598adl/blob/main/lecture_notes/STP598adl_lect5tree.pdf)
 
