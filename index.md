@@ -10,7 +10,7 @@ This course focuses on more advanced AI/ML topics than standard deep neural netw
 
 * Written assignement 1 [Written1](https://github.com/slan-teaching/STP598adl/blob/main/homework/STP598adl_written1.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/248838) due **11:59pm Friday 2/6/2026**.
 
-<!-- * Coding assignment 4 is avaiable at [NBGrader](https://mathds.asu.edu/) due **11:59pm Friday 11/08/2024**. ->
+* Coding assignment 1 is avaiable at [NBGrader](https://agnesi.la.asu.edu) due **11:59pm Sunday 2/15/2026**.
 
 <!-- * [Final Project](https://github.com/slan-teaching/STP598adl/blob/main/exams/STP598adl_final.pdf) is available. Please pay attention to the deadlines. -->
 
